@@ -1,0 +1,42 @@
+"HoldoutWaves"
+{
+	WAVE // 01
+	{
+		ENTRY
+		{
+			"AlienClass"		"asw_drone"
+			"SpawnGroup"		"spawners_nearby_drone"
+			"Quantity"		"1"
+			"SpawnDelay"		"1.0"
+			"SpawnDuration"		"0.0"
+		}
+	}
+	WAVE // 02
+	{
+	}
+	WAVE // 03
+	{
+	}
+	WAVE // 04
+	{
+	}
+	WAVE // 05
+	{
+		"Resupply"		"1"
+	}
+	WAVE // 06
+	{
+	}
+	WAVE // 07
+	{
+	}
+	WAVE // 08
+	{
+	}
+	WAVE // 09
+	{
+	}
+	WAVE // 10
+	{
+	}
+}

@@ -8,7 +8,7 @@ Flavor:
    Basis: Warframe Mobile Defense / Warframe Sabotage
    Climate: rock (red/orange)/Deep Rock Galactic salt pits/Guild Wars 2 Dry Top/Warframe Mars
    Requirement: Tech
-   Summary: Hack several terminals along a mostly-linear path.
+   Summary: Defend the Tech while he hacks several terminals along a mostly-linear path.
    Scaling: none
 2. Title: CAMPAIGN-2
    Flavor: 
@@ -24,7 +24,7 @@ Flavor:
    Briefing: 
    Location: 
    Basis: Guild Wars 2 Tequatl / Guild Wars 2 Chak Gerent / Warframe Void Armageddon / Warframe Empyrean Volatile
-   Climate: rock (white/green)/Guild Wars 2 Tangled Depths ley line cave/Warframe Lua/Deep Rock Galactic Radioactive Exclusion Zone
+   Climate: rock (white/green)/Guild Wars 2 Tangled Depths Ley Line Confluence/Warframe Lua/Deep Rock Galactic Radioactive Exclusion Zone
    Requirement: none
    Summary: Power up a big laser and use it to blast through to the next area.
    Scaling: none
