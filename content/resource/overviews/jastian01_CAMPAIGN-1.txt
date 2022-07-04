@@ -1,0 +1,18 @@
+"GAME"
+{
+	"pos_x"		"0"
+	"pos_y"		"0"
+	"scale"		"10.0"
+
+	"material"		"vgui/swarm/overviews/jastian01_CAMPAIGN-1"
+	"briefingmaterial"		"vgui/swarm/overviews/jastian01_CAMPAIGN-1_briefing"
+
+	"missiontitle"		"#jastian_summer_mission_01_name"
+	"description"		"#jastian_summer_mission_01_desc"
+
+	"author"		"Ben Lubar"
+	"website"		"https://jastian-summer.lubar.me"
+	"version"		"1.0"
+
+	"image"		"swarm/missionpics/jastian01_CAMPAIGN-1"
+}

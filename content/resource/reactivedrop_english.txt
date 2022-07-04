@@ -1,0 +1,50 @@
+"lang"
+{
+"Language"		"english"
+"Tokens"
+{
+"jastian_summer_campaign_name"		"Jastian Summer"
+"jastian_summer_campaign_desc"		"#jastian_summer_campaign_desc" // TODO
+"jastian_summer_start_area_loc"		"IAF Emergency Camp"
+
+"jastian_summer_mission_01_name"		"CAMPAIGN-1" // TODO
+"jastian_summer_mission_01_desc"		"#jastian_summer_mission_01_desc" // TODO
+"jastian_summer_mission_01_loc"		"#jastian_summer_mission_01_loc" // TODO
+"jastian_summer_mission_01_brief"		"#jastian_summer_mission_01_brief" // TODO
+
+"jastian_summer_mission_02_name"		"CAMPAIGN-2" // TODO
+"jastian_summer_mission_02_desc"		"#jastian_summer_mission_02_desc" // TODO
+"jastian_summer_mission_02_loc"		"#jastian_summer_mission_02_loc" // TODO
+"jastian_summer_mission_02_brief"		"#jastian_summer_mission_02_brief" // TODO
+
+"jastian_summer_mission_03_name"		"CAMPAIGN-3" // TODO
+"jastian_summer_mission_03_desc"		"#jastian_summer_mission_03_desc" // TODO
+"jastian_summer_mission_03_loc"		"#jastian_summer_mission_03_loc" // TODO
+"jastian_summer_mission_03_brief"		"#jastian_summer_mission_03_brief" // TODO
+
+"jastian_summer_mission_04_name"		"Cholistan Winter"
+"jastian_summer_mission_04_desc"		"#jastian_summer_mission_04_desc" // TODO
+"jastian_summer_mission_04_loc"		"Cholistan Excavation"
+"jastian_summer_mission_04_brief"		"#jastian_summer_mission_04_brief" // TODO
+
+"jastian_summer_mission_05_name"		"Inquest Obelisk"
+"jastian_summer_mission_05_desc"		"#jastian_summer_mission_05_desc" // TODO
+"jastian_summer_mission_05_loc"		"Infested Space Station"
+"jastian_summer_mission_05_brief"		"#jastian_summer_mission_05_brief" // TODO
+
+"jastian_summer_bonus_01_name"		"BONUS-1" // TODO
+"jastian_summer_bonus_01_desc"		"#jastian_summer_bonus_01_desc" // TODO
+
+"jastian_summer_dm_01_name"		"DM BONUS-1" // TODO
+"jastian_summer_dm_01_desc"		"#jastian_summer_dm_01_desc" // TODO
+
+"jastian_summer_dm_02_name"		"DM CAMPAIGN-3" // TODO
+"jastian_summer_dm_02_desc"		"#jastian_summer_dm_02_desc" // TODO
+
+"jastian_summer_dm_03_name"		"DM Cholistan"
+"jastian_summer_dm_03_desc"		"#jastian_summer_dm_03_desc" // TODO
+
+"jastian_summer_dm_04_name"		"DM Inquest"
+"jastian_summer_dm_04_desc"		"#jastian_summer_dm_04_desc" // TODO
+}
+}

@@ -1,0 +1,22 @@
+"GAME"
+{
+	"pos_x"		"0"
+	"pos_y"		"0"
+	"scale"		"10.0"
+
+	"material"		"vgui/swarm/overviews/bonus_jastian_BONUS-1"
+	"briefingmaterial"		"vgui/swarm/overviews/bonus_jastian_BONUS-1_briefing"
+
+	"missiontitle"		"#jastian_summer_bonus_01_name"
+	"description"		"#jastian_summer_bonus_01_desc"
+
+	"author"		"Ben Lubar"
+	"website"		"https://jastian-summer.lubar.me"
+	"version"		"1.0"
+
+	"image"		"swarm/missionpics/bonus_jastian_BONUS-1"
+
+	"CustomCreditsFile"		"resource/jastian_summer_credits"
+
+	"tag"		"bonus"
+}

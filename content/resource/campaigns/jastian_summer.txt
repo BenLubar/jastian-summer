@@ -1,0 +1,120 @@
+"GAME"
+{
+	"CampaignName"		"#jastian_summer_campaign_name"
+	"CampaignDescription"		"#jastian_summer_campaign_desc"
+	"CustomCreditsFile"		"resource/jastian_summer_credits"
+
+	"ChooseCampaignTexture"		"swarm/campaigns/jastian_summer"
+
+	"GalaxyX"		"136"
+	"GalaxyY"		"129"
+
+	"CampaignTextureName"		"swarm/campaign/jacob_galacticmap"
+	"CampaignTextureLayer1"		"swarm/Campaign/CampaignMap_EmptyLayer"
+	"CampaignTextureLayer2"		"swarm/Campaign/CampaignMap_EmptyLayer"
+	"CampaignTextureLayer3"		"swarm/Campaign/CampaignMap_EmptyLayer"
+
+	"Searchlight1X"		"217"
+	"Searchlight1Y"		"860"
+	"Searchlight1Angle"		"80"
+	"Searchlight2X"		"263"
+	"Searchlight2Y"		"751"
+	"Searchlight2Angle"		"100"
+	"Searchlight3X"		"92"
+	"Searchlight3Y"		"446"
+	"Searchlight3Angle"		"90"
+	"Searchlight4X"		"580"
+	"Searchlight4Y"		"266"
+	"Searchlight4Angle"		"90"
+
+	"MISSION"
+	{
+		"MapName"		"start_area"
+
+		"LocationX"		"1"
+		"LocationY"		"1"
+		"LocationDescription"		"#jastian_summer_start_area_loc"
+
+		"Links"		"jastian01_CAMPAIGN-1"
+	}
+
+	"MISSION"
+	{
+		"MissionName"		"#jastian_summer_mission_01_name"
+
+		"MapName"		"jastian01_CAMPAIGN-1"
+
+		"LocationX"		"11"
+		"LocationY"		"1"
+		"LocationDescription"		"#jastian_summer_mission_01_loc"
+		"ShortBriefing"		"#jastian_summer_mission_01_brief"
+
+		"AlwaysVisible"		"1"
+
+		"Links"		"start_area jastian02_CAMPAIGN-2"
+	}
+
+	"MISSION"
+	{
+		"MissionName"		"#jastian_summer_mission_02_name"
+
+		"MapName"		"jastian02_CAMPAIGN-2"
+
+		"LocationX"		"21"
+		"LocationY"		"1"
+		"LocationDescription"		"#jastian_summer_mission_02_loc"
+		"ShortBriefing"		"#jastian_summer_mission_02_brief"
+
+		"AlwaysVisible"		"1"
+
+		"Links"		"jastian01_CAMPAIGN-1 jastian03_CAMPAIGN-3"
+	}
+
+	"MISSION"
+	{
+		"MissionName"		"#jastian_summer_mission_03_name"
+
+		"MapName"		"jastian03_CAMPAIGN-3"
+
+		"LocationX"		"31"
+		"LocationY"		"1"
+		"LocationDescription"		"#jastian_summer_mission_03_loc"
+		"ShortBriefing"		"#jastian_summer_mission_03_brief"
+
+		"AlwaysVisible"		"1"
+
+		"Links"		"jastian02_CAMPAIGN-2 jastian04_cholistan"
+	}
+
+	"MISSION"
+	{
+		"MissionName"		"#jastian_summer_mission_04_name"
+
+		"MapName"		"jastian04_cholistan"
+
+		"LocationX"		"41"
+		"LocationY"		"1"
+		"LocationDescription"		"#jastian_summer_mission_04_loc"
+		"ShortBriefing"		"#jastian_summer_mission_04_brief"
+
+		"AlwaysVisible"		"1"
+
+		"Links"		"jastian03_CAMPAIGN-3 jastian05_inquest"
+	}
+
+	"MISSION"
+	{
+		"MissionName"		"#jastian_summer_mission_05_name"
+
+		"MapName"		"jastian05_inquest"
+
+		"LocationX"		"51"
+		"LocationY"		"1"
+		"LocationDescription"		"#jastian_summer_mission_05_loc"
+		"ShortBriefing"		"#jastian_summer_mission_05_brief"
+
+		"AlwaysVisible"		"1"
+
+		"Links"		"jastian04_cholistan"
+	}
+}

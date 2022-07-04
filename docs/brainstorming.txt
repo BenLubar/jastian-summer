@@ -6,7 +6,7 @@ Flavor:
    Briefing: 
    Location: 
    Basis: Warframe Mobile Defense / Warframe Sabotage
-   Climate: rock (red/orange)/Deep Rock Galactic salt pits/Team Fortress 2 badlands/Minecraft badlands/Guild Wars 2 Dry Top/Warframe Mars
+   Climate: rock (red/orange)/Deep Rock Galactic salt pits/Guild Wars 2 Dry Top/Warframe Mars
    Requirement: Tech
    Summary: Hack several terminals along a mostly-linear path.
    Scaling: none
@@ -31,7 +31,7 @@ Flavor:
 4. Title: Cholistan Winter
    Flavor: 
    Briefing: 
-   Location: 
+   Location: Cholistan Excavation
    Basis: Team Fortress 2 Payload / Warframe Hijack / Deep Rock Galactic Escort Duty / Deep Rock Galactic Salvage
    Climate: ice+snow+industrial/Risk of Rain 2 Siphoned Forest/Warframe Europa/Guild Wars 1 Shiverpeaks/Guild Wars 2 Darkrime Delves
    Requirement: none
@@ -40,7 +40,7 @@ Flavor:
 5. Title: Inquest Obelisk
    Flavor: 
    Briefing: 
-   Location: 
+   Location: Infested Space Station
    Basis: Deep Rock Galactic Industrial Sabotage / Warframe Sabotage / Warframe Empyrean Confrontation / Guild Wars 2 Thaumanova Reactor Fractal / Risk of Rain 2 Commencement
    Climate: metal (dark)/space station/clean/Guild Wars 2 Inquest lab (pristine)/Warframe Corpus ship/Half-Life 2 Combine Citadel
    Requirement: Tech (initial)
@@ -51,7 +51,7 @@ BONUS
 1. Title: BONUS-1
    Flavor: 
    Basis: Warframe Defense / Alien Swarm Holdout
-   Climate: rock (red/orange)/Deep Rock Galactic salt pits/Team Fortress 2 badlands/Minecraft badlands/Guild Wars 2 Dry Top/Warframe Mars
+   Climate: rock (red/orange)/Deep Rock Galactic salt pits/Guild Wars 2 Dry Top/Warframe Mars
    Requirement: none
    Summary: Defend a stationary target from waves of enemies. Target sometimes moves or terrain sometimes changes between waves.
    Scaling: none
@@ -75,7 +75,7 @@ ENDLESS
 DEATHMATCH
 1. Title: DM BONUS-1
    Flavor: 
-   Climate: rock (red/orange)/Deep Rock Galactic salt pits/Team Fortress 2 badlands/Minecraft badlands/Guild Wars 2 Dry Top/Warframe Mars
+   Climate: rock (red/orange)/Deep Rock Galactic salt pits/Guild Wars 2 Dry Top/Warframe Mars
 2. Title: DM CAMPAIGN-3
    Flavor: 
    Climate: rock (white/green)/Guild Wars 2 Tangled Depths ley line cave/Warframe Lua/Deep Rock Galactic Radioactive Exclusion Zone

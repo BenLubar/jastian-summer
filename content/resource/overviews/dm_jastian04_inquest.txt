@@ -1,0 +1,22 @@
+"GAME"
+{
+	"pos_x"		"0"
+	"pos_y"		"0"
+	"scale"		"10.0"
+
+	"material"		"vgui/swarm/overviews/dm_jastian04_inquest"
+	"briefingmaterial"		"vgui/swarm/overviews/dm_jastian04_inquest_briefing"
+
+	"missiontitle"		"#jastian_summer_dm_04_name"
+	"description"		"#jastian_summer_dm_04_desc"
+
+	"author"		"Ben Lubar"
+	"website"		"https://jastian-summer.lubar.me"
+	"version"		"1.0"
+
+	"image"		"swarm/missionpics/dm_jastian04_inquest"
+
+	"CustomCreditsFile"		"resource/jastian_summer_credits"
+
+	"tag"		"deathmatch"
+}
