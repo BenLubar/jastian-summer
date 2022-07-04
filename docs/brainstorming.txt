@@ -1,0 +1,90 @@
+CAMPAIGN
+Title: Jastian Summer
+Flavor: 
+1. Title: CAMPAIGN-1
+   Flavor: 
+   Briefing: 
+   Location: 
+   Basis: Warframe Mobile Defense / Warframe Sabotage
+   Climate: rock (red/orange)/Deep Rock Galactic salt pits/Team Fortress 2 badlands/Minecraft badlands/Guild Wars 2 Dry Top/Warframe Mars
+   Requirement: Tech
+   Summary: Hack several terminals along a mostly-linear path.
+   Scaling: none
+2. Title: CAMPAIGN-2
+   Flavor: 
+   Briefing: 
+   Location: 
+   Basis: Deep Rock Galactic On-Site Refining
+   Climate: rock (black/brown)/Half-Life 2 Episode One mineshaft/Stardew Valley lava cave
+   Requirement: Tech (initial, can prevent mission failure later)
+   Summary: Set up a large assembly of equipment, then defend and maintain it.
+   Scaling: easy = 1 target to defend, normal/hard = 2 targets, insane/brutal = 3 targets
+3. Title: CAMPAIGN-3
+   Flavor: 
+   Briefing: 
+   Location: 
+   Basis: Guild Wars 2 Tequatl / Guild Wars 2 Chak Gerent / Warframe Void Armageddon / Warframe Empyrean Volatile
+   Climate: rock (white/green)/Guild Wars 2 Tangled Depths ley line cave/Warframe Lua/Deep Rock Galactic Radioactive Exclusion Zone
+   Requirement: none
+   Summary: Power up a big laser and use it to blast through to the next area.
+   Scaling: none
+4. Title: Cholistan Winter
+   Flavor: 
+   Briefing: 
+   Location: 
+   Basis: Team Fortress 2 Payload / Warframe Hijack / Deep Rock Galactic Escort Duty / Deep Rock Galactic Salvage
+   Climate: ice+snow+industrial/Risk of Rain 2 Siphoned Forest/Warframe Europa/Guild Wars 1 Shiverpeaks/Guild Wars 2 Darkrime Delves
+   Requirement: none
+   Summary: Escort a big vehicle to a target and then defend it while it works. Mission ends with a rocket launch sequence.
+   Scaling: none
+5. Title: Inquest Obelisk
+   Flavor: 
+   Briefing: 
+   Location: 
+   Basis: Deep Rock Galactic Industrial Sabotage / Warframe Sabotage / Warframe Empyrean Confrontation / Guild Wars 2 Thaumanova Reactor Fractal / Risk of Rain 2 Commencement
+   Climate: metal (dark)/space station/clean/Guild Wars 2 Inquest lab (pristine)/Warframe Corpus ship/Half-Life 2 Combine Citadel
+   Requirement: Tech (initial)
+   Summary: Make a boss vulnerable to attacks, then destroy it and escape.
+   Scaling: easy/normal = 2 prerequisite objectives, hard = 3 prerequisite objectives, insane/brutal = all 4 prerequisite objectives
+
+BONUS
+1. Title: BONUS-1
+   Flavor: 
+   Basis: Warframe Defense / Alien Swarm Holdout
+   Climate: rock (red/orange)/Deep Rock Galactic salt pits/Team Fortress 2 badlands/Minecraft badlands/Guild Wars 2 Dry Top/Warframe Mars
+   Requirement: none
+   Summary: Defend a stationary target from waves of enemies. Target sometimes moves or terrain sometimes changes between waves.
+   Scaling: none
+
+ENDLESS
+1. Title: Cholistan Excavation
+   Flavor: 
+   Basis: Warframe Excavation / Warframe Infested Salvage
+   Climate: ice+snow+industrial/Risk of Rain 2 Siphoned Forest/Warframe Europa/Guild Wars 1 Shiverpeaks/Guild Wars 2 Darkrime Delves
+   Requirement: none, but Tech is required for some optional objectives
+   Summary: Repair excavators, keep them powered, and defend them.
+   Scaling: none
+2. Title: Inquest Survival
+   Flavor: 
+   Basis: Warframe Survival / Warframe Infested Salvage / Warframe Void Cascade / Warframe Void Flood / Warframe Empyrean Volatile / Deep Rock Galactic O2 Hazard
+   Climate: metal (dark)/space station/clean/Guild Wars 2 Inquest lab (pristine)/Warframe Corpus ship
+   Requirement: none
+   Summary: Survive against infinite enemies and prevent a meter from going too far.
+   Scaling: none
+
+DEATHMATCH
+1. Title: DM BONUS-1
+   Flavor: 
+   Climate: rock (red/orange)/Deep Rock Galactic salt pits/Team Fortress 2 badlands/Minecraft badlands/Guild Wars 2 Dry Top/Warframe Mars
+2. Title: DM CAMPAIGN-3
+   Flavor: 
+   Climate: rock (white/green)/Guild Wars 2 Tangled Depths ley line cave/Warframe Lua/Deep Rock Galactic Radioactive Exclusion Zone
+3. Title: DM Cholistan
+   Flavor: 
+   Climate: ice+snow+industrial/Risk of Rain 2 Siphoned Forest/Warframe Europa/Guild Wars 1 Shiverpeaks/Guild Wars 2 Darkrime Delves
+4. Title: DM Inquest
+   Flavor: 
+   Climate: metal (dark)/space station/clean/Guild Wars 2 Inquest lab (pristine)/Warframe Corpus ship
+
+CHALLENGE
+1. Alien Removal Division style exploding buzzers? Or maybe everything explodes??
