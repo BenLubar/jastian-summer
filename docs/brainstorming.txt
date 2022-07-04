@@ -1,10 +1,10 @@
 CAMPAIGN
 Title: Jastian Summer
 Flavor: 
-1. Title: CAMPAIGN-1
+1. Title: Tharsis Outpost
    Flavor: 
    Briefing: 
-   Location: 
+   Location: Tharsis Research Outpost
    Basis: Warframe Mobile Defense / Warframe Sabotage
    Climate: rock (red/orange)/Deep Rock Galactic salt pits/Guild Wars 2 Dry Top/Warframe Mars
    Requirement: Tech

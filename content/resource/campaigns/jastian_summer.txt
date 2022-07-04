@@ -35,14 +35,14 @@
 		"LocationY"		"1"
 		"LocationDescription"		"#jastian_summer_start_area_loc"
 
-		"Links"		"jastian01_CAMPAIGN-1"
+		"Links"		"jastian01_tharsis"
 	}
 
 	"MISSION"
 	{
 		"MissionName"		"#jastian_summer_mission_01_name"
 
-		"MapName"		"jastian01_CAMPAIGN-1"
+		"MapName"		"jastian01_tharsis"
 
 		"LocationX"		"11"
 		"LocationY"		"1"
@@ -67,7 +67,7 @@
 
 		"AlwaysVisible"		"1"
 
-		"Links"		"jastian01_CAMPAIGN-1 jastian03_CAMPAIGN-3"
+		"Links"		"jastian01_tharsis jastian03_CAMPAIGN-3"
 	}
 
 	"MISSION"

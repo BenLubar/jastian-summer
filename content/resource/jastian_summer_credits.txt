@@ -17,4 +17,6 @@
 	"asw_credits_"		"Warframe (Digital Extremes)"
 	"asw_credits_"		" "
 	"asw_credits_"		"Keep being awesome, marines!"
+	"asw_credits_"		" "
+	"asw_credits_"		"/)"
 }

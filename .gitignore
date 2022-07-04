@@ -1,4 +1,5 @@
 *.bsp
 *.lin
+*.log
 *.prt
 *.vmx

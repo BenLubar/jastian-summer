@@ -4,8 +4,8 @@
 	"pos_y"		"0"
 	"scale"		"10.0"
 
-	"material"		"vgui/swarm/overviews/bonus_jastian_BONUS-1"
-	"briefingmaterial"		"vgui/swarm/overviews/bonus_jastian_BONUS-1_briefing"
+	"material"		"vgui/swarm/overviews/bonus_jastian_tharsis"
+	"briefingmaterial"		"vgui/swarm/overviews/bonus_jastian_tharsis_briefing"
 
 	"missiontitle"		"#jastian_summer_bonus_01_name"
 	"description"		"#jastian_summer_bonus_01_desc"
@@ -14,7 +14,7 @@
 	"website"		"https://jastian-summer.lubar.me"
 	"version"		"1.0"
 
-	"image"		"swarm/missionpics/bonus_jastian_BONUS-1"
+	"image"		"swarm/missionpics/bonus_jastian_tharsis"
 
 	"CustomCreditsFile"		"resource/jastian_summer_credits"
 

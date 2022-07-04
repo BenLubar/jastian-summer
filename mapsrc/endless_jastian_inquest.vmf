@@ -2,9 +2,12 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7397"
-	"mapversion" "0"
+	"mapversion" "7"
 	"formatversion" "100"
 	"prefab" "0"
+}
+visgroups
+{
 }
 viewsettings
 {
@@ -17,12 +20,115 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "0"
+	"mapversion" "7"
 	"classname" "worldspawn"
-	"skyname" "blackskyfog"
-	"maxpropscreenwidth" "-1"
-	"detailvbsp" "detail.vbsp"
 	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxpropscreenwidth" "-1"
+	"skyname" "blackskyfog"
+}
+entity
+{
+	"id" "173"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "0 -1536 0"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "222"
+	"classname" "asw_gamerules"
+	"allowcamerarotation" "1"
+	"jumpjettype" "0"
+	"speedruntime" "180"
+	"speedruntimesp" "0"
+	"targetname" "@gamerules"
+	connections
+	{
+		"OnDifficulty" "asw_marineAddOutputOnDeath @gamerules:MarineFinishedMission:!self:0:-101"
+	}
+	"origin" "0 0 64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "243"
+	"classname" "math_counter"
+	"max" "100"
+	"min" "0"
+	"StartDisabled" "0"
+	"startvalue" "100"
+	"targetname" "oxygen_supply"
+	connections
+	{
+		"OnHitMin" "@gamerulesMarineFinishedMissionasw_marine0-1"
+		"OnHitMin" "oxygen_supplyDisable0-1"
+		"OutValue" "oxygen_supply_barBarValue0-1"
+	}
+	"origin" "0 0 48"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "262"
+	"classname" "rd_boss_bar"
+	"BarBGColor" "9 32 54 255"
+	"BarBorderColor" "29 76 111 255"
+	"BarColumn" "1"
+	"BarFGColor" "93 149 193 255"
+	"BarFlashColor" "255 255 255 255"
+	"BarFlashInterpolate" "0.1"
+	"BarFlashSustain" "0.5"
+	"BarMax" "100"
+	"BarMode" "0"
+	"BarRow" "1"
+	"BarScale" "0.2"
+	"BarTitle" "#jastian_summer_oxygen_supply"
+	"BarValue" "100"
+	"targetname" "oxygen_supply_bar"
+	"origin" "16 0 64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "268"
+	"classname" "func_instance"
+	"angles" "0 0 0"
+	"file" "_jastian_inquest_base_geometry.vmf"
+	"fixup_style" "2"
+	"origin" "0 0 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
 }
 cameras
 {
