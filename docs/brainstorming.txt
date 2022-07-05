@@ -22,7 +22,7 @@ Flavor:
 3. Title: Rata Terebro
    Flavor: 
    Briefing: 
-   Location: 
+   Location: Rata Terebro Cavern
    Basis: Guild Wars 2 Tequatl / Guild Wars 2 Chak Gerent / Warframe Void Armageddon / Warframe Empyrean Volatile
    Climate: rock (white/green)/Guild Wars 2 Tangled Depths Ley Line Confluence/Warframe Lua/Deep Rock Galactic Radioactive Exclusion Zone
    Requirement: none
