@@ -1,7 +1,7 @@
 "Credits"
 {
 	"show_credits_logo"		"1"
-	"custom_logo"		"swarm/credits/jastiansummer"
+	"custom_logo"		"swarm/credits/jastian_summer"
 	"asw_credits_"		"Alien Swarm: Jastian Summer"
 	"asw_credits_"		" "
 	"asw_credits_"		"Ben Lubar - Mapping"
