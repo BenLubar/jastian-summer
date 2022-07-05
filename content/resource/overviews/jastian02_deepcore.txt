@@ -4,8 +4,8 @@
 	"pos_y"		"0"
 	"scale"		"10.0"
 
-	"material"		"vgui/swarm/overviews/jastian02_CAMPAIGN-2"
-	"briefingmaterial"		"vgui/swarm/overviews/jastian02_CAMPAIGN-2_briefing"
+	"material"		"vgui/swarm/overviews/jastian02_deepcore"
+	"briefingmaterial"		"vgui/swarm/overviews/jastian02_deepcore_briefing"
 
 	"missiontitle"		"#jastian_summer_mission_02_name"
 	"description"		"#jastian_summer_mission_02_desc"
@@ -14,5 +14,5 @@
 	"website"		"https://jastian-summer.lubar.me"
 	"version"		"1.0"
 
-	"image"		"swarm/missionpics/jastian02_CAMPAIGN-2"
+	"image"		"swarm/missionpics/jastian02_deepcore"
 }

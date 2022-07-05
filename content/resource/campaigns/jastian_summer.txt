@@ -51,14 +51,14 @@
 
 		"AlwaysVisible"		"1"
 
-		"Links"		"start_area jastian02_CAMPAIGN-2"
+		"Links"		"start_area jastian02_deepcore"
 	}
 
 	"MISSION"
 	{
 		"MissionName"		"#jastian_summer_mission_02_name"
 
-		"MapName"		"jastian02_CAMPAIGN-2"
+		"MapName"		"jastian02_deepcore"
 
 		"LocationX"		"21"
 		"LocationY"		"1"
@@ -67,14 +67,14 @@
 
 		"AlwaysVisible"		"1"
 
-		"Links"		"jastian01_tharsis jastian03_CAMPAIGN-3"
+		"Links"		"jastian01_tharsis jastian03_rata_terebro"
 	}
 
 	"MISSION"
 	{
 		"MissionName"		"#jastian_summer_mission_03_name"
 
-		"MapName"		"jastian03_CAMPAIGN-3"
+		"MapName"		"jastian03_rata_terebro"
 
 		"LocationX"		"31"
 		"LocationY"		"1"
@@ -83,7 +83,7 @@
 
 		"AlwaysVisible"		"1"
 
-		"Links"		"jastian02_CAMPAIGN-2 jastian04_cholistan"
+		"Links"		"jastian02_deepcore jastian04_cholistan"
 	}
 
 	"MISSION"
@@ -99,7 +99,7 @@
 
 		"AlwaysVisible"		"1"
 
-		"Links"		"jastian03_CAMPAIGN-3 jastian05_inquest"
+		"Links"		"jastian03_rata_terebro jastian05_inquest"
 	}
 
 	"MISSION"

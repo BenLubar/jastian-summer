@@ -10,16 +10,16 @@ Flavor:
    Requirement: Tech
    Summary: Defend the Tech while he hacks several terminals along a mostly-linear path.
    Scaling: none
-2. Title: CAMPAIGN-2
+2. Title: Deepcore Refinery
    Flavor: 
    Briefing: 
-   Location: 
+   Location: Deepcore Refinery
    Basis: Deep Rock Galactic On-Site Refining
    Climate: rock (black/brown)/Half-Life 2 Episode One mineshaft/Stardew Valley lava cave
    Requirement: Tech (initial, can prevent mission failure later)
    Summary: Set up a large assembly of equipment, then defend and maintain it.
    Scaling: easy = 1 target to defend, normal/hard = 2 targets, insane/brutal = 3 targets
-3. Title: CAMPAIGN-3
+3. Title: Rata Terebro
    Flavor: 
    Briefing: 
    Location: 
@@ -48,7 +48,7 @@ Flavor:
    Scaling: easy/normal = 2 prerequisite objectives, hard = 3 prerequisite objectives, insane/brutal = all 4 prerequisite objectives
 
 BONUS
-1. Title: BONUS-1
+1. Title: Tharsis Holdout
    Flavor: 
    Basis: Warframe Defense / Alien Swarm Holdout
    Climate: rock (red/orange)/Deep Rock Galactic salt pits/Guild Wars 2 Dry Top/Warframe Mars
@@ -73,10 +73,10 @@ ENDLESS
    Scaling: none
 
 DEATHMATCH
-1. Title: DM BONUS-1
+1. Title: DM Tharsis
    Flavor: 
    Climate: rock (red/orange)/Deep Rock Galactic salt pits/Guild Wars 2 Dry Top/Warframe Mars
-2. Title: DM CAMPAIGN-3
+2. Title: DM Rata Terebro
    Flavor: 
    Climate: rock (white/green)/Guild Wars 2 Tangled Depths ley line cave/Warframe Lua/Deep Rock Galactic Radioactive Exclusion Zone
 3. Title: DM Cholistan

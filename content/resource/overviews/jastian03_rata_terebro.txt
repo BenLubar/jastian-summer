@@ -4,8 +4,8 @@
 	"pos_y"		"0"
 	"scale"		"10.0"
 
-	"material"		"vgui/swarm/overviews/jastian03_CAMPAIGN-3"
-	"briefingmaterial"		"vgui/swarm/overviews/jastian03_CAMPAIGN-3_briefing"
+	"material"		"vgui/swarm/overviews/jastian03_rata_terebro"
+	"briefingmaterial"		"vgui/swarm/overviews/jastian03_rata_terebro_briefing"
 
 	"missiontitle"		"#jastian_summer_mission_03_name"
 	"description"		"#jastian_summer_mission_03_desc"
@@ -14,5 +14,5 @@
 	"website"		"https://jastian-summer.lubar.me"
 	"version"		"1.0"
 
-	"image"		"swarm/missionpics/jastian03_CAMPAIGN-3"
+	"image"		"swarm/missionpics/jastian03_rata_terebro"
 }
