@@ -26,7 +26,7 @@
 
 `Mechanically: Marines need to defend a (mostly) stationary target from waves of aliens while a non-player character prepares to extract the target. There are a total of 10 waves. Mission success is when all 10 waves have been defeated.`
 
-**VO:** Okay, those are the supplies. And luckily, the MULE looks mostly intact. I'll see if I can log into-- oh no, the map just lit up. Hold them off for me.
+**VO:** Okay, those are the supplies. And luckily, the MULE looks mostly intact. I'll see if I can log into-- oh no, the scanner just lit up. Hold them off for me.
 
 *[Wave 1]*
 
