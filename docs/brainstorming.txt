@@ -15,7 +15,7 @@ Flavor:
    Briefing: 
    Location: Deepcore Refinery
    Basis: Deep Rock Galactic On-Site Refining
-   Climate: rock (black/brown)/Half-Life 2 Episode One mineshaft/Stardew Valley lava cave
+   Climate: rock (black/brown/blue+luminous foliage)/Half-Life 2 Episode Two Victory Mine/Stardew Valley Volcano Dungeon/Deep Rock Galactic Azure Weald
    Requirement: Tech (initial, can prevent mission failure later)
    Summary: Set up a large assembly of equipment, then defend and maintain it.
    Scaling: easy = 1 target to defend, normal/hard = 2 targets, insane/brutal = 3 targets
@@ -42,7 +42,7 @@ Flavor:
    Briefing: 
    Location: Infested Space Station
    Basis: Deep Rock Galactic Industrial Sabotage / Warframe Sabotage / Warframe Empyrean Confrontation / Guild Wars 2 Thaumanova Reactor Fractal / Risk of Rain 2 Commencement
-   Climate: metal (dark)/space station/clean/Guild Wars 2 Inquest lab (pristine)/Warframe Corpus ship/Half-Life 2 Combine Citadel
+   Climate: metal (dark+some stark white areas)/space station/clean/Guild Wars 2 Inquest lab (pristine)/Warframe Corpus ship/Half-Life 2 Combine Citadel
    Requirement: Tech (initial)
    Summary: Make a boss vulnerable to attacks, then destroy it and escape.
    Scaling: easy/normal = 2 prerequisite objectives, hard = 3 prerequisite objectives, insane/brutal = all 4 prerequisite objectives
@@ -66,10 +66,10 @@ ENDLESS
    Scaling: none
 2. Title: Inquest Survival
    Flavor: 
-   Basis: Warframe Survival / Warframe Infested Salvage / Warframe Void Cascade / Warframe Void Flood / Warframe Empyrean Volatile / Deep Rock Galactic O2 Hazard
-   Climate: metal (dark)/space station/clean/Guild Wars 2 Inquest lab (pristine)/Warframe Corpus ship
+   Basis: Warframe Survival / Warframe Infested Salvage / Warframe Void Cascade / Warframe Void Flood / Warframe Empyrean Volatile / Deep Rock Galactic Low Oxygen Warning
+   Climate: metal (dark+some stark white areas)/space station/clean/Guild Wars 2 Inquest lab (pristine)/Warframe Corpus ship
    Requirement: none
-   Summary: Survive against infinite enemies and prevent a meter from going too far.
+   Summary: Survive against infinite enemies and prevent a meter from fully depleting.
    Scaling: none
 
 DEATHMATCH
@@ -84,7 +84,7 @@ DEATHMATCH
    Climate: ice+snow+industrial/Risk of Rain 2 Siphoned Forest/Warframe Europa/Guild Wars 1 Shiverpeaks/Guild Wars 2 Darkrime Delves
 4. Title: DM Inquest
    Flavor: 
-   Climate: metal (dark)/space station/clean/Guild Wars 2 Inquest lab (pristine)/Warframe Corpus ship
+   Climate: metal (dark+some stark white areas)/space station/clean/Guild Wars 2 Inquest lab (pristine)/Warframe Corpus ship
 
 CHALLENGE
 1. Alien Removal Division style exploding buzzers? Or maybe everything explodes??

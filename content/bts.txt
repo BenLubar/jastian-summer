@@ -1,0 +1,56 @@
+You have found the (somewhat) hidden Behind The Scenes file!
+
+First, a little backstory. Jastian Summer was originally the name of an Alien Swarm total conversion mod I was making with some friends nearly twelve years ago. There honestly wasn't a lot to it. We had a few ideas, but nowhere near enough to actually make a game out of.
+
+Since then, I've worked on multiple Alien Swarm mod teams (Hypovolemia, Swarm Director 2) before settling on Alien Swarm: Reactive Drop as essentially an unpaid full time job. The name Jastian Summer (Jastian being the name of the star my first Spore planet was orbiting around) has followed me around since then, becoming the name of one of my Guild Wars 2 characters, and now the name of this campaign.
+
+As for the other names in the campaign:
+
+- Tharsis is the name of a Warframe Mobile Defense mission on Mars, and also the name of a volcanic plateau on real-life Mars.
+
+- Deepcore (and the number 32 used extensively in the mission) are from Deep Rock Galactic's Update 32 patch notes, Roughnecks at Work, the update that added Onsite Refining missions. Deepcore is part of the name of one of the default guns in Deep Rock Galactic.
+
+- Rata Terebro is based on the Guild Wars 2 tradition of naming Asura cities in Latin (translating literally to "boring thought", but not the kind of "boring" you're probably thinking of from those two words together). Like Rata Sum and Rata Novus, this is also an anagram, of "bore, retreat".
+
+- Cholistan is the name of a Warframe Excavation mission on Europa, and also the name of a desert in real-life Pakistan.
+
+- Inquest Obelisk comes from the Guild Wars 2 antagonist organization named The Inquest and a classification of Warframe Corpus ships, Obelisk.
+
+---
+
+To be a bit more specific about the sources of inspiration listed in the credits:
+
+- Alien Removal Division (Enchanted Bean Studios)
+    - Inquest: Entered the Bunker
+- Alien Swarm
+    - Jacob's Rest (Black Cat Games)
+    - Tears for Tarnor (Ezekel Falcon)
+    - Paranoia (Eclipse)
+    - Nam Humanum (Guillaume "Stral" Houard and Thomas "Synmachus" Lesteven)
+- Deep Rock Galactic (Ghost Ship Games)
+    - Tharsis: Salt Pits
+    - Deepcore: Azure Weald
+    - Deepcore: On-Site Refining
+    - Rata Terebro: Radioactive Exclusion Zone
+    - Cholistan: Escort Duty
+    - Inquest: Industrial Sabotage
+- Guild Wars (ArenaNet)
+    - Tharsis: Dry Top
+    - Rata Terebro: Ley Line Confluence
+    - Rata Terebro: King of the Jungle
+    - Cholistan: Darkrime Delves
+    - Inquest: Crucible of Eternity
+    - Inquest: Rata Primus
+- Half-Life (Valve)
+    - Deepcore: Victory Mine
+    - Inquest: Citadel
+- Risk of Rain (Hopoo Games)
+    - Cholistan: Siphoned Forest
+    - Inquest: Commencement
+- Stardew Valley (ConcernedApe)
+    - Deepcore: Volcano Dungeon
+- Warframe (Digital Extremes)
+    - Tharsis: Grineer Settlement
+    - Rata Terebro: Orokin Moon
+    - Cholistan: Corpus Ice Planet
+    - Inquest: Corpus Ship
