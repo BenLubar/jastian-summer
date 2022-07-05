@@ -34,46 +34,46 @@
 
 *[Wave 2]*
 
-**VO:** I think I've got something.
-**Base Computer:** ACCESS DENIED
+**VO:** I think I've got something.  
+**Base Computer:** ACCESS DENIED  
 **VO:** Well, that *is* something, I guess. Not the something I wanted.
 
 *[Wave 3]*
 
-*[The MULE jerks forward a very short distance, then raises the cargo about a meter into the air using hydraulics.]*
-**VO:** Ugh, thought I had it.
+*[The MULE jerks forward a very short distance, then raises the cargo about a meter into the air using hydraulics.]*  
+**VO:** Ugh, thought I had it.  
 *[The MULE slowly lowers the cargo to its previous height.]*
 
 *[Wave 4]*
 
-*[The MULE fires an incendiary or explosive weapon in four directions. The MULE cannot be damaged by this, but the marines can be. Explosives have a longer-than-normal arm time to give players a chance to react.]*
-**VO:** Nope. NOPE! Wrong.
+*[The MULE fires an incendiary or explosive weapon in four directions. The MULE cannot be damaged by this, but the marines can be. Explosives have a longer-than-normal arm time to give players a chance to react.]*  
+**VO:** Nope. NOPE! Wrong.  
 *[A fire extinguisher falls out of the MULE.]*
 
 *[Wave 5]*
 
-**VO:** I'm running out of ideas. Is it this one?
-*[The MULE spins around in place.]*
+**VO:** I'm running out of ideas. Is it this one?  
+*[The MULE spins around in place.]*  
 **VO:** Nope. Well, almost.
 
 *[Wave 6]*
 
-*[The MULE starts to progress along a path that winds around to higher ground.]*
+*[The MULE starts to progress along a path that winds around to higher ground.]*  
 **VO:** Got it! Here we go.
 
 *[Wave 7]*
 
 **VO:** Alright, coming over to where you are.
 
-*[Wave 8]*
+*[Wave 8]*  
 *[Dropship descends nearby]*
 
 **VO:** Keep the aliens off it while I get it into position!
 
-*[MULE slowly rolls towards dropship]*
+*[MULE slowly rolls towards dropship]*  
 *[Wave 9]*
 
-*[Thick cables descend from dropship, attaching to the MULE]*
+*[Thick cables descend from dropship, attaching to the MULE]*  
 **VO:** I can't take off if we're surrounded like this.
 
 *[Wave 10]*
