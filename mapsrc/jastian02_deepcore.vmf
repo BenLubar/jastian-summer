@@ -2,27 +2,60 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7397"
-	"mapversion" "0"
+	"mapversion" "9"
 	"formatversion" "100"
 	"prefab" "0"
+}
+visgroups
+{
 }
 viewsettings
 {
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "16"
+	"nGridSpacing" "64"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "0"
+	"mapversion" "9"
 	"classname" "worldspawn"
-	"skyname" "blackskyfog"
-	"maxpropscreenwidth" "-1"
-	"detailvbsp" "detail.vbsp"
 	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxpropscreenwidth" "-1"
+	"skyname" "blackskyfog"
+}
+entity
+{
+	"id" "78"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "0 0 0"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "81"
+	"classname" "func_instance"
+	"angles" "-0 0 0"
+	"file" "_jastian_deepcore_base_geometry.vmf"
+	"fixup_style" "2"
+	"origin" "0 0 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
 }
 cameras
 {

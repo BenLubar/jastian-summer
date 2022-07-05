@@ -2,27 +2,101 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7397"
-	"mapversion" "0"
+	"mapversion" "10"
 	"formatversion" "100"
 	"prefab" "0"
+}
+visgroups
+{
 }
 viewsettings
 {
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "16"
+	"nGridSpacing" "64"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "0"
+	"mapversion" "10"
 	"classname" "worldspawn"
-	"skyname" "blackskyfog"
-	"maxpropscreenwidth" "-1"
-	"detailvbsp" "detail.vbsp"
 	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxpropscreenwidth" "-1"
+	"skyname" "blackskyfog"
+}
+entity
+{
+	"id" "78"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "0 0 0"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "138"
+	"classname" "asw_deathmatch_mode"
+	"origin" "0 0 64"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "147"
+	"classname" "info_player_start_team1"
+	"angles" "0 0 0"
+	"origin" "-1536 0 0"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "154"
+	"classname" "info_player_start_team2"
+	"angles" "0 180 0"
+	"origin" "1536 0 0"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "160"
+	"classname" "func_instance"
+	"angles" "0 0 0"
+	"file" "_jastian_cholistan_nonlinear_base_geometry.vmf"
+	"fixup_style" "2"
+	"origin" "0 0 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
 }
 cameras
 {
