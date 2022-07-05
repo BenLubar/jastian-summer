@@ -29,7 +29,7 @@
 
 "jastian_summer_mission_05_name"		"Inquest Obelisk"
 "jastian_summer_mission_05_desc"		"#jastian_summer_mission_05_desc" // TODO
-"jastian_summer_mission_05_loc"		"Infested Space Station"
+"jastian_summer_mission_05_loc"		"Infested Space Probe"
 "jastian_summer_mission_05_brief"		"#jastian_summer_mission_05_brief" // TODO
 
 "jastian_summer_bonus_01_name"		"Tharsis Holdout"

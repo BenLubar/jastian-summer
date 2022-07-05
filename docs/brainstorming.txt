@@ -40,7 +40,7 @@ Flavor:
 5. Title: Inquest Obelisk
    Flavor: 
    Briefing: 
-   Location: Infested Space Station
+   Location: Infested Space Probe
    Basis: Deep Rock Galactic Industrial Sabotage / Warframe Sabotage / Warframe Empyrean Confrontation / Guild Wars 2 Thaumanova Reactor Fractal / Risk of Rain 2 Commencement
    Climate: metal (dark+some stark white areas)/space station/clean/Guild Wars 2 Inquest lab (pristine)/Warframe Corpus ship/Half-Life 2 Combine Citadel
    Requirement: Tech (initial)
