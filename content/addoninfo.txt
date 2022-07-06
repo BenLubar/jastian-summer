@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"addontitle"		"Jastian Summer"
+	"addonauthor"		"Ben Lubar"
+	"addondescription"		""
+}
