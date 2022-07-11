@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7397"
-	"mapversion" "8"
+	"mapversion" "10"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,19 +20,19 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "8"
+	"mapversion" "10"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
-	"skyname" "blackskyfog"
+	"skyname" "sky_ep01_04a_hdr"
 }
 entity
 {
 	"id" "78"
 	"classname" "info_player_start"
 	"angles" "0 0 0"
-	"origin" "0 0 0"
+	"origin" "64 128 0"
 	editor
 	{
 		"color" "0 255 0"
@@ -69,6 +69,104 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "151"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "128 64 0"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "153"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "128 0 0"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "155"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "64 -64 0"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "157"
+	"classname" "info_player_start"
+	"angles" "0 180 0"
+	"origin" "-64 -64 0"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "163"
+	"classname" "info_player_start"
+	"angles" "0 180 0"
+	"origin" "-128 0 0"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "165"
+	"classname" "info_player_start"
+	"angles" "0 180 0"
+	"origin" "-128 64 0"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "167"
+	"classname" "info_player_start"
+	"angles" "0 180 0"
+	"origin" "-64 128 0"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
 	}
 }
 cameras
