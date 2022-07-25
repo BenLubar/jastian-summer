@@ -1,0 +1,6 @@
+"LightmappedGeneric" {
+	"$basetexture"		"nature/jastian_hoxxes_azure_crystal_blue"
+	"$selfillum"		"1"
+	"$selfillummask"		"effects/model_layer_shock_1"
+	"$surfaceprop"		"glass"
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric" {
+	"$basetexture"		"nature/jastian_hoxxes_azure_foliageplaceholder_pink"
+	"$selfillum"		"1"
+	"$surfaceprop"		"foliage"
+}

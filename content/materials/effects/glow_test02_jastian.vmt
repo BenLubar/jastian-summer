@@ -1,0 +1,11 @@
+spritecard
+{
+$basetexture "sprites/glow_test02"
+$vertexcolor 1
+$vertexalpha 1
+$additive 1
+$nofog 1
+$depthblend 1
+$orientation 1
+$cropfactor "[1 0.95]"
+}

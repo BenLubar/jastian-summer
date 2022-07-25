@@ -1,0 +1,5 @@
+"LightmappedGeneric" {
+	"$basetexture"		"nature/jastian_hoxxes_azure_crystal_red"
+	"$selfillum"		"1"
+	"$surfaceprop"		"glass"
+}

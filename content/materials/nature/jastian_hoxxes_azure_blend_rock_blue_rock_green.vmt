@@ -1,0 +1,7 @@
+"WorldVertexTransition" {
+	"$basetexture"		"nature/jastian_hoxxes_azure_rock_blue"
+	"$basetexture2"		"nature/jastian_hoxxes_azure_rock_green"
+	"$surfaceprop"		"rock"
+	"$surfaceprop2"		"rock"
+	"$seamless_scale"		"0.0078125"
+}
